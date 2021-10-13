@@ -1,7 +1,7 @@
 ### Hi y'all 👋
 
 [![](https://camo.githubusercontent.com/dcd998f0b6567f17873812fa9bcc9767d63c056862c19024ccbfe5ec7cefe2eb/687474703a2f2f7075626c69632e7365727665726c6573732e636f6d2f6261646765732f76332e737667)](https://www.npmjs.com/package/serverless)
-[![](https://img.shields.io/badge/aws-informational?style=flat&logo=aws&logoColor=white&color=1a1b27)](https://aws.amazon.com/)
+[![](https://img.shields.io/badge/amazonaws?style=flat&logo=aws&logoColor=white&color=1a1b27)](https://aws.amazon.com/)
 [![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=blue&color=1a1b27)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=blue&color=1a1b27)](https://nodejs.org/en/)
 [![](https://img.shields.io/badge/Jest-informational?style=flat&logo=Jest&logoColor=blue&color=1a1b27)](https://jestjs.io/)
