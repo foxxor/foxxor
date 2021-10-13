@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/Jest-informational?style=flat&logo=Jest&logoColor=red&color=1a1b27)](https://jestjs.io/)
 [![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=red&color=1a1b27)](https://git-scm.com/)
 [![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=blue&color=1a1b27)](https://www.docker.com/)
-[![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=1a1b27)](https://www.php.net/)
+[![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=blueviolet&color=1a1b27)](https://www.php.net/)
 
 I'm Jorge a Full Stack Developer, born in Colombia 🇨🇴☕ and based in The Netherlands 🇳🇱🥪.
 
